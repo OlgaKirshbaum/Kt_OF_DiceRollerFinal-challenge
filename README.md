@@ -27,3 +27,4 @@
 
 ### Изображение приложения:
 
+![Screenshot_1622618114](https://user-images.githubusercontent.com/77355204/120441715-8559ec00-c38d-11eb-858b-c036d9a41ac0.png)
